@@ -6,7 +6,7 @@ covers:
 creator:
   author:
     agent_name: Hopkins, Gerard Manley
-    birthdate: &id001 1844
+    birthdate: 1844
     gutenberg_agent_id: '25314'
     url: http://www.gutenberg.org/2009/agents/25314
     wikipedia: http://en.wikipedia.org/wiki/Gerard_Manley_Hopkins
@@ -15,12 +15,14 @@ creator:
     aliases:
     - Bridges, R. (Robert)
     - Bridges, Robert Seymour
-    birthdate: *id001
+    birthdate: 1844
     deathdate: 1930
     gutenberg_agent_id: '5418'
     url: http://www.gutenberg.org/2009/agents/5418
     wikipedia: http://en.wikipedia.org/wiki/Robert_Bridges
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22403#Poems-of-Gerard-Manley-HopkinsNow-First-Published
 gutenberg_issued: '2007-08-26'
 gutenberg_type: Text
 identifiers:
